@@ -2,6 +2,7 @@ package com.example.videocaller;
 
 public class User {
     private String name,email,pass;
+    private String uname,email,cpass;
 
     public User() {
 
