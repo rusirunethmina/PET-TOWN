@@ -38,6 +38,10 @@ public class RegisterActivity extends AppCompatActivity {
 
         dialog=new ProgressDialog(this);
         dialog.setMessage("Creating Account....");
+		
+		dialog=new ProgressDialog(this);
+        dialog.setMessage("Creating Account is have active");
+
 
 
         database=FirebaseFirestore.getInstance();
