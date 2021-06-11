@@ -200,7 +200,7 @@ public class RegisterActivity extends AppCompatActivity {
                         }
                         else
 
-                            {
+                            {rrtttrtt
                             Toast.makeText(RegisterActivity.this,"Account Not Created",Toast.LENGTH_SHORT).show();
                             }
                     }
