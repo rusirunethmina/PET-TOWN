@@ -61,4 +61,60 @@ public class DashboardActivity extends AppCompatActivity {
         });
 
     }
+	
+	                 JitsiMeetConferenceOptions options =  new JitsiMeetConferenceOptions.Builder()
+                         .setRoom(secretCodeBox.getText().toString())
+                         .setWelcomePageEnabled(false)
+                         .build();
+
+                JitsiMeetActivity.launch(DashboardActivity.this,options);
+
+            }
+        });
+                 JitsiMeetConferenceOptions options =  new JitsiMeetConferenceOptions.Builder()
+                         .setRoom(secretCodeBox.getText().toString())
+                         .setWelcomePageEnabled(false)
+                         .build();
+
+                JitsiMeetActivity.launch(DashboardActivity.this,options);
+
+            }
+        });
+                 JitsiMeetConferenceOptions options =  new JitsiMeetConferenceOptions.Builder()
+                         .setRoom(secretCodeBox.getText().toString())
+                         .setWelcomePageEnabled(false)
+                         .build();
+
+                JitsiMeetActivity.launch(DashboardActivity.this,options);
+
+            }
+        });
+                 JitsiMeetConferenceOptions options =  new JitsiMeetConferenceOptions.Builder()
+                         .setRoom(secretCodeBox.getText().toString())
+                         .setWelcomePageEnabled(false)
+                         .build();
+
+                JitsiMeetActivity.launch(DashboardActivity.this,options);
+
+            }
+        });
+                 JitsiMeetConferenceOptions options =  new JitsiMeetConferenceOptions.Builder()
+                         .setRoom(secretCodeBox.getText().toString())
+                         .setWelcomePageEnabled(false)
+                         .build();
+
+                JitsiMeetActivity.launch(DashboardActivity.this,options);
+
+            }
+        });
+                 JitsiMeetConferenceOptions options =  new JitsiMeetConferenceOptions.Builder()
+                         .setRoom(secretCodeBox.getText().toString())
+                         .setWelcomePageEnabled(false)
+                         .build();
+
+                JitsiMeetActivity.launch(DashboardActivity.this,options);
+
+            }
+        });
+
 }

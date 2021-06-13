@@ -2,6 +2,7 @@ package com.example.videocaller;
 
 public class User {
     private String name,email,pass;
+    private String uname,email,cpass;
 
     public User() {
 
@@ -15,6 +16,54 @@ public class User {
     public void setName(String name) {
         this.name = name;
     }
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;ddeefeefrfrf
 
     public String getEmail() {
         return email;
